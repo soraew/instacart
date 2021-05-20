@@ -1,0 +1,7 @@
+*.pyc
+*.pyo
+*.csv
+__MACOSX/
+.ipynb_checkpoints/
+data/
+.DS_Store
